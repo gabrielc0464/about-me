@@ -1,9 +1,7 @@
    # About Me
    ## Basic info  
    Gabriel Charriez   
-   Email: gabrielc0464@hstat.org
-      HSTAT   
- I live in Brooklyn,NY.  
+   Email: gabrielc0464@hstat.org 
 ## Class Schedule
      
      1.Software
