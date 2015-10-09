@@ -1,5 +1,5 @@
-   # About Me
-   ## Basic info  
+# About Me
+## Basic info  
    Gabriel Charriez   
    Email: gabrielc0464@hstat.org 
 ## Class Schedule
