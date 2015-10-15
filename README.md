@@ -1,7 +1,9 @@
 # About Me
-## Basic info  
-   Gabriel Charriez   
-   Email: gabrielc0464@hstat.org 
+## Basic info 
+    Height: 5'8
+    Age: 16
+    Gabriel Charriez   
+    Email: gabrielc0464@hstat.org 
 ## Class Schedule
      
      1.Software
